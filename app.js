@@ -87,7 +87,7 @@ const createBTN = () => {
 };
 createBTN();
 
-// The structure which I add name, price, desc and photo
+// The component which I add name, price, desc and photo
 
 function addHTML(photo, name, desc, price) {
   sectionCode = `
